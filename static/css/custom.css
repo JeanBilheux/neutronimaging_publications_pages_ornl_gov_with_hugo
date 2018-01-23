@@ -1,0 +1,20 @@
+/* Custom CSS */
+
+#bottom_links a {
+    color: #fff;
+    vertical-align: middle;
+}
+
+#bottom_links {
+    font-size: 15px;
+    padding-left: 0rem;
+    height: 50px;
+
+    background: #acbcc2;
+    color: #ffffff;
+    text-align: center;
+  }
+
+#bottom_links span#bottom_ornl_statement {
+    color: black
+}
