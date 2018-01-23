@@ -39,7 +39,7 @@ suffix = ""
 # date & time format: https://golang.org/pkg/time/
 dateFormat = "2006, Jan 02"
 listDateFormat = "2006, Jan 02"
-hideEntryNavigation = False # boolean / array of sections
+hideEntryNavigation = false
 recentPostsLength = 0
 hideSocialMenu = false
 showReadingTime = false
@@ -81,13 +81,13 @@ tag = "tags"
 page = "/:slug/"
 
 [[menu.main]]
-name = "CG1D"
+name = "HFIR"
 weight = 1
-identifier = "CG1D"
+identifier = "HFIR"
 url = "https://neutrons.ornl.gov/imaging/publications"
 
 [[menu.main]]
-name = "Back to Imaging Home Page"
+name = "Home Page"
 weight = 10
 identifier = "Imaging Home Page"
 url = "https://neutronimaging.pages.ornl.gov"
