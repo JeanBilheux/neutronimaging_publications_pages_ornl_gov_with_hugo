@@ -1,5 +1,5 @@
 baseURL = "https://neutronimaging.pages.ornl.gov"
-title = "List of ORNL Neutron Imaging Publications"
+title = "Imaging Publications"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = "ORNL Neutron Imaging Team"
 

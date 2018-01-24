@@ -1,7 +1,7 @@
 ---
 date: 2018-01-20T08:00:00+06:00
 title: SNS
-authors: ["muniftanjim"]
+authors: ["Neutron Imaging Team"]
 slug: sns
 menu: main
 weight: 3
