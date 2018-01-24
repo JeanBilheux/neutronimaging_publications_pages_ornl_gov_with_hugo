@@ -2,15 +2,161 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2587b8e-7e58-4166-ae97-8ab6f5d03285" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/ornl_imaging_logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/content/content/sns/index.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/config.toml" afterPath="$PROJECT_DIR$/config.toml" />
-      <change beforePath="$PROJECT_DIR$/content/facility/sns.md" afterPath="$PROJECT_DIR$/content/facility/sns.md" />
-      <change beforePath="$PROJECT_DIR$/data/authors/muniftanjim.toml" afterPath="$PROJECT_DIR$/data/authors/muniftanjim.toml" />
-      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/data/authors/muniftanjim.toml" afterPath="$PROJECT_DIR$/themes/minimo/exampleSite/data/authors/muniftanjim.toml" />
-      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/head/head.html" afterPath="$PROJECT_DIR$/themes/minimo/layouts/partials/head/head.html" />
-      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/style.scss" afterPath="$PROJECT_DIR$/themes/minimo/src/stylesheets/style.scss" />
-      <change beforePath="$PROJECT_DIR$/themes/minimo/theme.toml" afterPath="$PROJECT_DIR$/themes/minimo/theme.toml" />
+      <change beforePath="$PROJECT_DIR$/config.toml" afterPath="$PROJECT_DIR$/static/temp/config.toml" />
+      <change beforePath="$PROJECT_DIR$/content/_index.md" afterPath="$PROJECT_DIR$/static/temp/_index.md" />
+      <change beforePath="$PROJECT_DIR$/content/authors/_index.md" afterPath="$PROJECT_DIR$/static/temp/authors/_index.md" />
+      <change beforePath="$PROJECT_DIR$/content/facility/sns.md" afterPath="$PROJECT_DIR$/static/temp/facility/sns.md" />
+      <change beforePath="$PROJECT_DIR$/content/tags/config/_index.md" afterPath="$PROJECT_DIR$/static/temp/tags/config/_index.md" />
+      <change beforePath="$PROJECT_DIR$/content/tags/og/_index.md" afterPath="$PROJECT_DIR$/static/temp/tags/og/_index.md" />
+      <change beforePath="$PROJECT_DIR$/static/css/custom.css" afterPath="$PROJECT_DIR$/static/css/custom.css" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/archetypes/default.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/archetypes/page.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/data/assets.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/data/theme.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/config.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/_index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/authors/_index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/_index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/authors.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/cover-image.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/example-config-toml.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/homepage-sections.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/installation.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/menus.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/opengraph.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/shortcodes.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/syntax-highlighting.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/translation.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/updating.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/page/about.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/page/typography.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/tags/config/_index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/content/tags/og/_index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/data/authors/muniftanjim.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/layouts/partials/home/tags.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/static/css/custom.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/static/images/eden-farm-children-s-village.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/exampleSite/static/js/custom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/i18n/bn.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/i18n/de.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/i18n/en.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/i18n/fa.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/i18n/fr.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/i18n/hr.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/i18n/pl.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/i18n/pt-BR.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/i18n/sl.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/i18n/zh.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/images/screenshot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/images/tn.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/404.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/_default/li.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/_default/list.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/_default/single.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/_default/terms.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/data/author/displayName" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/data/description" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/data/title" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/entry/comments.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/entry/content.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/entry/cover.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/entry/footer.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/entry/header.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/entry/meta.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/entry/meta/author.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/entry/meta/posted-on.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/entry/meta/reading-time.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/entry/taxonomy-list.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/entry/toc.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/extras/term_cloud.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/footer.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/footer/copyright.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/footer/scripts.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/head/analytics.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/head/head.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/head/hreflang.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/head/includes.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/head/meta.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/head/opengraph.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/head/opengraph/twitter.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/header.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/header/bodyClasses.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/header/subtitle.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/home/recent_posts.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/list/date.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/nav/entry_nav.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/nav/menus/main.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/nav/menus/social.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/nav/pagination.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/partials/svg/icons.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/robots.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/shortcodes/center.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/shortcodes/convo.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/shortcodes/file.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/shortcodes/text.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/layouts/taxonomy/author.terms.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/netlify.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/scripts/helpers.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/scripts/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/_normalize.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/elements/_elements.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/elements/_links.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/elements/_lists.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/elements/_tables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/elements/forms/_buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/elements/forms/_fields.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/elements/forms/_forms.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/extras/_accessibility.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/extras/_extras.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/extras/mixins/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/extras/placeholders/_placeholders.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/extras/variables/_colors.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/extras/variables/_structure.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/extras/variables/_typography.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/extras/variables/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/navigation/_entry-nav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/navigation/_menus.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/navigation/_navigation.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/navigation/_pagination.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/navigation/menus/_main.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/navigation/menus/_social.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/shortcodes/_center.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/shortcodes/_convo.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/shortcodes/_shortcodes.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/shortcodes/_text.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/site/_footer.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/site/_header.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/site/_lists.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/site/_site.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/site/entry/_comments.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/site/entry/_content.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/site/entry/_cover.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/site/entry/_entry.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/site/entry/_footer.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/site/entry/_meta.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/site/entry/_toc.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/site/layouts/_404.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/site/layouts/_home.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/site/layouts/_layouts.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/style.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/typography/_codes.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/typography/_copy.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/typography/_headings.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/src/stylesheets/typography/_typography.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/static/assets/css/main.f0e8df71.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/static/assets/gopher.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/static/assets/js/main.5871befd.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/theme.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/webpack.config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo/yarn.lock" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,31 +167,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sns.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/facility/sns.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="config.toml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            <state relative-caret-position="398">
+              <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/head/head.html">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/blackburn/layouts/partials/footer.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="107" lean-forward="false" selection-start-line="12" selection-start-column="107" selection-end-line="12" selection-end-column="107" />
+              <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/blackburn/layouts/partials/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -70,6 +216,9 @@
       <find>Munif</find>
       <find>List of ORNL</find>
       <find>ornl_logo.png</find>
+      <find>author</find>
+      <find>authorID</find>
+      <find>theme</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/themes/minimo/src/stylesheets</dir>
@@ -98,23 +247,34 @@
         <option value="$PROJECT_DIR$/themes/minimo/src/stylesheets/style.scss" />
         <option value="$PROJECT_DIR$/themes/minimo/layouts/partials/footer.html" />
         <option value="$PROJECT_DIR$/themes/minimo/src/stylesheets/elements/_links.scss" />
-        <option value="$PROJECT_DIR$/static/css/custom.css" />
         <option value="$PROJECT_DIR$/layouts/partials/home/tags.html" />
-        <option value="$PROJECT_DIR$/themes/minimo/exampleSite/config.toml" />
         <option value="$PROJECT_DIR$/content/authors/_index.md" />
         <option value="$PROJECT_DIR$/themes/minimo/layouts/partials/home/recent_posts.html" />
         <option value="$PROJECT_DIR$/themes/minimo/src/stylesheets/typography/_copy.scss" />
         <option value="$PROJECT_DIR$/data/authors/muniftanjim.toml" />
         <option value="$PROJECT_DIR$/content/facility/sns.md" />
-        <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/themes/minimo/layouts/partials/head/head.html" />
+        <option value="$PROJECT_DIR$/themes/minimo/layouts/partials/head/meta.html" />
+        <option value="$PROJECT_DIR$/themes/minimo/layouts/partials/data/author/displayName" />
+        <option value="$PROJECT_DIR$/themes/minimo/exampleSite/config.toml" />
+        <option value="$PROJECT_DIR$/static/css/custom.css" />
+        <option value="$PROJECT_DIR$/themes/blackburn/layouts/partials/sidemenu.html" />
+        <option value="$PROJECT_DIR$/themes/blackburn/layouts/partials/copyright.html" />
+        <option value="$PROJECT_DIR$/themes/blackburn/layouts/partials/head.html" />
+        <option value="$PROJECT_DIR$/themes/blackburn/layouts/partials/social.html" />
+        <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/content/content/sns/migrate-from-jekyll.md" />
+        <option value="$PROJECT_DIR$/themes/blackburn/layouts/partials/footer.html" />
+        <option value="$PROJECT_DIR$/themes/blackburn/static/css/blackburn.css" />
+        <option value="$PROJECT_DIR$/content/content/sns/index.md" />
+        <option value="$PROJECT_DIR$/themes/blackburn/layouts/partials/header.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="34" />
-    <option name="y" value="38" />
-    <option name="width" value="1748" />
+    <option name="x" value="25" />
+    <option name="y" value="33" />
+    <option name="width" value="1763" />
     <option name="height" value="1340" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -133,6 +293,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,41 +310,25 @@
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="authors" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="facility" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="sns" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
@@ -194,68 +339,69 @@
             <path>
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
+              <item name="facility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="minimo" type="462c0819:PsiDirectoryNode" />
+              <item name="blackburn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="minimo" type="462c0819:PsiDirectoryNode" />
-              <item name="exampleSite" type="462c0819:PsiDirectoryNode" />
+              <item name="blackburn" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="minimo" type="462c0819:PsiDirectoryNode" />
-              <item name="exampleSite" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="blackburn" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="minimo" type="462c0819:PsiDirectoryNode" />
-              <item name="exampleSite" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="blackburn" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="minimo" type="462c0819:PsiDirectoryNode" />
-              <item name="exampleSite" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="minimo" type="462c0819:PsiDirectoryNode" />
+              <item name="blackburn" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="minimo" type="462c0819:PsiDirectoryNode" />
+              <item name="blackburn" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,12 +417,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/content/sns" />
       <recent name="$PROJECT_DIR$/themes/minimo/static" />
       <recent name="$PROJECT_DIR$/content/page" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/static/temp" />
+      <recent name="$PROJECT_DIR$/content" />
+      <recent name="$PROJECT_DIR$/themes" />
       <recent name="$PROJECT_DIR$/static/images" />
-      <recent name="$PROJECT_DIR$/static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -308,18 +458,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="38" width="1748" height="1340" extended-state="0" />
+    <frame x="25" y="33" width="1763" height="1340" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31441808" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3117107" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1415712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47217676" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -327,26 +476,27 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14076485" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30522767" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47217676" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31441808" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -357,252 +507,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/page/snap.md" />
-    <entry file="file://$PROJECT_DIR$/content/page/vulcan.md" />
-    <entry file="file://$PROJECT_DIR$/content/facility/snap.md" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/src/stylesheets/navigation/_menus.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/src/stylesheets/site/entry/_comments.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/src/stylesheets/extras/variables/_colors.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/src/stylesheets/site/_footer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/footer/scripts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/src/stylesheets/site/_site.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/src/stylesheets/site/entry/_footer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/src/stylesheets/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/static/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/images/eden-farm-children-s-village.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/src/stylesheets/site/_header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/footer/copyright.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/src/stylesheets/elements/_links.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/tags/og/_index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/tags/config/_index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/archetypes/default.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/i18n/en.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" column="17" lean-forward="false" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/theme.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/static/favicon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/static/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/images/favicon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/images/tn.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/images/screenshot.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/entry/meta.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/nav/entry_nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/list/date.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/home/recent_posts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/images/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/src/stylesheets/typography/_copy.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/static/assets/css/main.f0e8df71.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="3" column="1824" lean-forward="false" selection-start-line="3" selection-start-column="1824" selection-end-line="3" selection-end-column="1824" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/list/date.html" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/home/recent_posts.html" />
+    <entry file="file://$PROJECT_DIR$/static/images/favicon.ico" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/src/stylesheets/typography/_copy.scss" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/static/assets/css/main.f0e8df71.css" />
     <entry file="file://$PROJECT_DIR$/layouts/partials/home/tags.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -610,102 +523,179 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/authors/_index.md">
+    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/opengraph.md" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/cover-image.md" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/authors.md" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/_index.md" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/page/about.md" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/page/typography.md" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/data/theme.toml" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/data/assets.json" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/archetypes/page.md" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/archetypes/default.md" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/_default/single.html" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/shortcodes/center.html" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/footer.html" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/shortcodes/convo.html" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/header.html" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/head/opengraph/twitter.html" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/head/meta.html" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/data/title" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/data/author/displayName" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/theme.toml" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/config.toml" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/footer/scripts.html" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/head/head.html" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/footer/copyright.html" />
+    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/_index.md" />
+    <entry file="file://$PROJECT_DIR$/static/temp/_index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/temp/authors/_index.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/opengraph.md">
+    <entry file="file://$PROJECT_DIR$/static/temp/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="75">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/cover-image.md">
+    <entry file="file://$PROJECT_DIR$/themes/blackburn/layouts/partials/sidemenu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/authors.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/_index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/_index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/page/about.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/page/typography.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="65" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/_index.md">
+    <entry file="file://$PROJECT_DIR$/themes/blackburn/layouts/partials/copyright.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/facility/sns.md">
+    <entry file="file://$PROJECT_DIR$/content/content/sns/creating-a-new-theme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/content/about.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blackburn/layouts/partials/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blackburn/layouts/partials/social.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="89" lean-forward="false" selection-start-line="4" selection-start-column="89" selection-end-line="4" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/content/sns/hugoisforlovers.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/content/sns/migrate-from-jekyll.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/content/sns/goisforlovers.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/temp/facility/sns.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/content/sns/index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="398">
+          <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/head/head.html">
+    <entry file="file://$PROJECT_DIR$/themes/blackburn/static/css/blackburn.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blackburn/layouts/partials/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="107" lean-forward="false" selection-start-line="12" selection-start-column="107" selection-end-line="12" selection-end-column="107" />
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blackburn/layouts/partials/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
