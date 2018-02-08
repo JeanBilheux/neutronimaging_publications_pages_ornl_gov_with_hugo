@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.example.com/content/sns/</loc>
+    <loc>https://neutronimaging-publications.pages.ornl.gov/content/sns/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/content/about/</loc>
+    <loc>https://neutronimaging-publications.pages.ornl.gov/content/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/content/contact/</loc>
+    <loc>https://neutronimaging-publications.pages.ornl.gov/content/contact/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/content/</loc>
+    <loc>https://neutronimaging-publications.pages.ornl.gov/content/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/</loc>
+    <loc>https://neutronimaging-publications.pages.ornl.gov/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/tags/</loc>
+    <loc>https://neutronimaging-publications.pages.ornl.gov/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/topics/</loc>
+    <loc>https://neutronimaging-publications.pages.ornl.gov/topics/</loc>
     <priority>0</priority>
   </url>
   

@@ -1,4 +1,4 @@
-baseurl = "https://www.example.com/"
+baseurl = "https://neutronimaging-publications.pages.ornl.gov"
 languageCode = "en-us"
 title = "Neutron Imaging Publications"
 theme = "blackburn"

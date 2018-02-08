@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neutron Imaging Publications</title>
-    <link>https://www.example.com/</link>
+    <link>https://neutronimaging-publications.pages.ornl.gov/</link>
     <description>Recent content on Neutron Imaging Publications</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018. All rights reserved.</copyright>
     <lastBuildDate>Wed, 24 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://neutronimaging-publications.pages.ornl.gov/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SNS Publications</title>
-      <link>https://www.example.com/content/sns/</link>
+      <link>https://neutronimaging-publications.pages.ornl.gov/content/sns/</link>
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/content/sns/</guid>
+      <guid>https://neutronimaging-publications.pages.ornl.gov/content/sns/</guid>
       <description>2017 Song G., Lin J.Y., Bilheux J., Xie Q., Santodonato L., Molaison J.J., Skorpenske H.D., dos Santos A.M., Tulk C.A., An K., Stoica A.D., Kirka M.M., Dehoff R.R., Tremsin A.S., Bunn J., Sochalski-Kolbus L.M., Bilheux H.Z., Characterization of Crystallographic Structures Using Bragg-Edge Neutron Imaging at the Spallation Neutron Source Journal of Imaging, 3, 4, 65 (2017).
  2016 Bilheux H.Z., Song G., An K., Bilheux J., Stoica A.D., Kirka M.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://www.example.com/content/about/</link>
+      <link>https://neutronimaging-publications.pages.ornl.gov/content/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/content/about/</guid>
+      <guid>https://neutronimaging-publications.pages.ornl.gov/content/about/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
@@ -37,10 +37,10 @@ Setup Some fun facts about Hugo:
     
     <item>
       <title>Contact</title>
-      <link>https://www.example.com/content/contact/</link>
+      <link>https://neutronimaging-publications.pages.ornl.gov/content/contact/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/content/contact/</guid>
+      <guid>https://neutronimaging-publications.pages.ornl.gov/content/contact/</guid>
       <description> First Name  Last Name  E-Mail  City  State AL CA IL      Send   </description>
     </item>
     
