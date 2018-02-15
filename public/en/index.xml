@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neutron Imaging on Documentation for Hugo Learn Theme</title>
+    <title>Neutron Imaging Publications</title>
     <link>/en/</link>
-    <description>Recent content in Neutron Imaging on Documentation for Hugo Learn Theme</description>
+    <description>Recent content on Neutron Imaging Publications</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
@@ -11,32 +11,35 @@
     
     
     <item>
-      <title>Contacts</title>
-      <link>/en/credits/</link>
+      <title>Neutron Imaging Publications</title>
+      <link>/en/hfir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/en/credits/</guid>
-      <description>Hassina Bilheux - Instrument ScientistExpertise: HFIR and SNS imaging beam lines  Short Bio ...   Dr. Hassina Bilheux obtained her Ph.D. in Physics at the Univ. of Versailles, France. Her work focused on plasma physics at the Oak Ridge National Laboratory’s Physics Division.
-She has developed neutron imaging capabilities at ORNL’s High Flux Isotope Reactor CG-1D beamline and is prototyping neutron imaging at the Spallation Neutron Source.</description>
+      <guid>/en/hfir/</guid>
+      <description>ORNL Neutron Imaging Publications We focus on imaging capabilities and research applications at both SNS and HFIR. On the left, and below are links to published work at both facilities:
+ Publications from the HFIR CG-1D imaging beamline Publications from the SNS  You can also search through the PUSH (Publications of SNS and HFIR) database. (https://snsapp1.sns.ornl.gov/xprod/f?p=134:37 )
+Welcome to the ORNL Neutron Imaging Website!  To learn more about submitting a proposal for beam time, go to neutrons.</description>
     </item>
     
     <item>
-      <title>Gallery</title>
-      <link>/en/showcase/</link>
+      <title>Neutron Imaging Publications</title>
+      <link>/en/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/en/showcase/</guid>
-      <description></description>
+      <guid>/en/home/</guid>
+      <description>ORNL Neutron Imaging Publications We focus on imaging capabilities and research applications at both SNS and HFIR. On the left, and below are links to published work at both facilities:
+ Publications from the HFIR CG-1D imaging beamline Publications from the SNS  You can also search through the PUSH (Publications of SNS and HFIR) database. (https://snsapp1.sns.ornl.gov/xprod/f?p=134:37 )
+Welcome to the ORNL Neutron Imaging Website!  To learn more about submitting a proposal for beam time, go to neutrons.</description>
     </item>
     
     <item>
-      <title>Github Repositories</title>
-      <link>/en/github/</link>
+      <title>SNS Imaging Publications</title>
+      <link>/en/sns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/en/github/</guid>
-      <description>Our gloal is to only develop open source tools. You will find here a list of the major repositories hosting our programs
- jupyter notebooks used in the analysis of the data python_notebooks python library used for normalization neunorm Imaging Resonance python library imagingReso iBeatles for Bragg Edge fitting iBeatles set of jupyter widgets ipywe Root analysis library RootPlantProcessing  </description>
+      <guid>/en/sns/</guid>
+      <description>2017 Song G., Lin J.Y., Bilheux J., Xie Q., Santodonato L., Molaison J.J., Skorpenske H.D., dos Santos A.M., Tulk C.A., An K., Stoica A.D., Kirka M.M., Dehoff R.R., Tremsin A.S., Bunn J., Sochalski-Kolbus L.M., Bilheux H.Z., Characterization of Crystallographic Structures Using Bragg-Edge Neutron Imaging at the Spallation Neutron Source Journal of Imaging, 3, 4, 65 (2017).
+ 2016 Bilheux H.Z., Song G., An K., Bilheux J., Stoica A.D., Kirka M.</description>
     </item>
     
   </channel>
