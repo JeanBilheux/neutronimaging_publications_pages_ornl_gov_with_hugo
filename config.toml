@@ -1,48 +1,46 @@
-baseurl = "https://neutronimaging-publications.pages.ornl.gov"
-languageCode = "en-us"
-title = "Neutron Imaging Publications"
-theme = "blackburn"
-author = "Neutron Imaging Team"
-copyright = "&copy; 2018. All rights reserved."
-canonifyurls = true
-paginate = 10
+#baseURL = "https://neutronimaging-publications.pages.ornl.gov/"
+baseURL = "/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
 
-[indexes]
-  tag = "tags"
-  topic = "topics"
+title = "ORNL Neutron Imaging Publications"
+theme = "hugo-theme-learn"
+themesdir = "themes"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
 
 [params]
-  # Shown in the home page
-  subtitle = "HFIR and SNS"
-  brand = "Publications"
-  googleAnalytics = "Your Google Analytics tracking ID"
-  disqus = "Your Disqus shortname"
-  # CSS name for highlight.js
-  highlightjs = "androidstudio"
-  dateFormat = "02 Jan 2006, 15:04"
+  editURL = ""
+  description = "ORNL Neutron Imaging Publications"
+  author = "Jean Bilheux"
+  showVisitedLinks = true
+  themeVariant = "blue"
 
-[menu]
-  # Shown in the side menu.
-  [[menu.main]]
-    name = "HFIR"
-    pre = "<i class='fa fa-external-link fa-fw'></i>"
-    weight = 1
-    identifier = "home"
-    url = "https://neutrons.ornl.gov/imaging/publications"
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
 
-  [[menu.main]]
-    name = "SNS"
-    pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 2
-    identifier = "sns"
-    url = "/content/sns/"
+[Languages]
+[Languages.en]
+title = "Neutron Imaging Publications"
+weight = 1
+languageName = "English"
 
-[social]
-  # Link your social networking accouns to the side menu
-  # by entering your username or ID.
-  twitter = "*"
-  facebook = "*"
-  instagram = "*"
-  github = ""
-  stackoverflow = "*"
-  linkedin = "*"
+[[Languages.en.menu.shortcuts]]
+name = "Neutron Imaging Home Page"
+url = "https://neutronimaging.pages.ornl.gov"
+weight = 2
+
+[[Languages.en.menu.shortcuts]]
+name = "HFIR Publications"
+url = "https://neutrons.ornl.gov/imaging/publications"
+weight = 3
+
+[[Languages.en.menu.shortcuts]]
+name = "SNS Publications"
+url = "/sns"
+weight = 4
+
+[[Languages.fr.menu.shortcuts]]
+name = "SNS Publications"
+url = "/sns"
+weight = 4

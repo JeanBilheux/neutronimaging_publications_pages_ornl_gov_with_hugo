@@ -1,57 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2587b8e-7e58-4166-ae97-8ab6f5d03285" name="Default" comment="">
+    <list default="true" id="1f2909ce-3d75-492d-a5d4-0dc990d52b0d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/content/home.en.md" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/neutronimaging_publications_pages_ornl_gov_with_hugo.iml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/config.toml" afterPath="$PROJECT_DIR$/config.toml" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/main.f0e8df71.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/assets/gopher.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/main.5871befd.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/content/about.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/content/contact.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/content/sns/index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/static/.gitkeep" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/authors/muniftanjim.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/home/tags.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/content/about/index.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/content/contact/index.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/content/index.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/content/post/creating-a-new-theme/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/content/post/goisforlovers/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/content/post/hugoisforlovers/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/content/post/migrate-from-jekyll/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/content/sns/creating-a-new-theme/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/content/sns/goisforlovers/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/content/sns/hugoisforlovers/index.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/content/sns/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/content/sns/migrate-from-jekyll/index.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/css/blackburn.css" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/css/custom.css" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/css/side-menu-old-ie.css" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/css/side-menu.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/images/eden-farm-children-s-village.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/images/favicon.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/images/new_icon.jpg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/images/ornl_header_logo.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/images/ornl_imaging_logo.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/images/ornl_logo.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/img/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
       <change beforePath="$PROJECT_DIR$/public/index.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/js/custom.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/js/ui.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/page/1/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/tags/development/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/tags/development/index.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/tags/go/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/tags/go/index.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/tags/golang/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/tags/golang/index.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/tags/hugo/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/tags/hugo/index.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" afterPath="$PROJECT_DIR$/public/sitemap.xml" />
       <change beforePath="$PROJECT_DIR$/public/tags/index.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/tags/index.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/tags/templates/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/tags/templates/index.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/tags/themes/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/tags/themes/index.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/temp/_index.md" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/temp/authors/_index.md" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/temp/config.toml" afterPath="" />
@@ -60,6 +45,57 @@
       <change beforePath="$PROJECT_DIR$/public/temp/tags/og/_index.md" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/topics/index.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/topics/index.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/css/custom.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/images/eden-farm-children-s-village.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/images/new_icon.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/images/ornl_header_logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/images/ornl_imaging_logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/images/ornl_logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/js/custom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/temp/_index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/temp/authors/_index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/temp/config.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/temp/facility/sns.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/temp/tags/config/_index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/temp/tags/og/_index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/archetypes/default.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/images/screenshot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/images/tn.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/404.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/_default/li.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/_default/single.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/_default/summary.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/_default/terms.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/indexes/post.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/partials/brand.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/partials/copyright.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/partials/disqus.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/partials/favicon.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/partials/footer.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/partials/google_analytics.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/partials/head.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/partials/header.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/partials/pagination.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/partials/piwik_analytics.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/partials/post_meta.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/partials/prev_next_post.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/partials/sidemenu.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/partials/social.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/post/single.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/shortcodes/fluid_img.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/shortcodes/fluid_imgs.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/shortcodes/pure_table.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/taxonomy/tag.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/layouts/taxonomy/topic.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/static/css/blackburn.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/static/css/side-menu-old-ie.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/static/css/side-menu.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/static/img/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/static/js/ui.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn/theme.toml" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,64 +105,54 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/blackburn/layouts/partials/footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/blackburn/layouts/partials/header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Recent Posts</find>
-      <find>recent</find>
-      <find>$color__link</find>
-      <find>Recent Publi</find>
-      <find>recentPosts</find>
-      <find>posted-on</find>
+      <find>learn</find>
+      <find>grav-logo</find>
+      <find>tat.png</find>
+      <find>basic</find>
+      <find>website</find>
+      <find>website_logo.png</find>
+      <find>English</find>
+      <find>Built with</find>
+      <find>c</find>
+      <find>built with</find>
+      <find>master.zip</find>
+      <find>start</find>
+      <find>fork</find>
+      <find>Download Start Fork</find>
+      <find>base</find>
+      <find>2:08</find>
+      <find>shortcuts</find>
+      <find>jean_bilheux</find>
+      <find>Showcases</find>
+      <find>Privacy</find>
+      <find>bottom_links</find>
       <find>favicon</find>
-      <find>favicon.ico</find>
-      <find>hover</find>
-      <find>dotted</find>
-      <find>favi</find>
-      <find>Munif Tanjim</find>
-      <find>Munif</find>
-      <find>List of ORNL</find>
-      <find>ornl_logo.png</find>
-      <find>author</find>
-      <find>authorID</find>
-      <find>theme</find>
+      <find>oncat</find>
+      <find>More</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
     <dirStrings>
-      <dir>$PROJECT_DIR$/themes/minimo/src/stylesheets</dir>
+      <dir>$PROJECT_DIR$/content/basics/prepare_venue</dir>
+      <dir>$PROJECT_DIR$/archetypes</dir>
+      <dir>$PROJECT_DIR$/themes/hugo-theme-learn/layouts/partials</dir>
+      <dir>$PROJECT_DIR$/themes/hugo-theme-learn/layouts</dir>
+      <dir>$PROJECT_DIR$/</dir>
       <dir>$PROJECT_DIR$/themes</dir>
       <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/themes/hugo-theme-learn</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -135,42 +161,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/content/cg1d/_index.md" />
-        <option value="$PROJECT_DIR$/content/page/about.md" />
-        <option value="$PROJECT_DIR$/content/page/typography.md" />
-        <option value="$PROJECT_DIR$/content/_index.md" />
-        <option value="$PROJECT_DIR$/content/page/venus.md" />
-        <option value="$PROJECT_DIR$/content/page/snap.md" />
-        <option value="$PROJECT_DIR$/content/page/cg1d.md" />
-        <option value="$PROJECT_DIR$/content/page/vulcan.md" />
-        <option value="$PROJECT_DIR$/themes/minimo/layouts/partials/footer/copyright.html" />
-        <option value="$PROJECT_DIR$/themes/minimo/src/stylesheets/site/_site.scss" />
-        <option value="$PROJECT_DIR$/themes/minimo/src/stylesheets/site/_footer.scss" />
-        <option value="$PROJECT_DIR$/themes/minimo/src/stylesheets/site/entry/_footer.scss" />
-        <option value="$PROJECT_DIR$/themes/minimo/src/stylesheets/style.scss" />
-        <option value="$PROJECT_DIR$/themes/minimo/layouts/partials/footer.html" />
-        <option value="$PROJECT_DIR$/themes/minimo/src/stylesheets/elements/_links.scss" />
-        <option value="$PROJECT_DIR$/layouts/partials/home/tags.html" />
-        <option value="$PROJECT_DIR$/content/authors/_index.md" />
-        <option value="$PROJECT_DIR$/themes/minimo/layouts/partials/home/recent_posts.html" />
-        <option value="$PROJECT_DIR$/themes/minimo/src/stylesheets/typography/_copy.scss" />
-        <option value="$PROJECT_DIR$/data/authors/muniftanjim.toml" />
-        <option value="$PROJECT_DIR$/content/facility/sns.md" />
-        <option value="$PROJECT_DIR$/themes/minimo/layouts/partials/head/head.html" />
-        <option value="$PROJECT_DIR$/themes/minimo/layouts/partials/head/meta.html" />
-        <option value="$PROJECT_DIR$/themes/minimo/layouts/partials/data/author/displayName" />
-        <option value="$PROJECT_DIR$/themes/minimo/exampleSite/config.toml" />
-        <option value="$PROJECT_DIR$/static/css/custom.css" />
-        <option value="$PROJECT_DIR$/themes/blackburn/layouts/partials/sidemenu.html" />
-        <option value="$PROJECT_DIR$/themes/blackburn/layouts/partials/copyright.html" />
-        <option value="$PROJECT_DIR$/themes/blackburn/layouts/partials/head.html" />
-        <option value="$PROJECT_DIR$/themes/blackburn/layouts/partials/social.html" />
-        <option value="$PROJECT_DIR$/content/content/sns/migrate-from-jekyll.md" />
-        <option value="$PROJECT_DIR$/themes/blackburn/layouts/partials/footer.html" />
-        <option value="$PROJECT_DIR$/themes/blackburn/static/css/blackburn.css" />
-        <option value="$PROJECT_DIR$/content/content/sns/index.md" />
-        <option value="$PROJECT_DIR$/themes/blackburn/layouts/partials/header.html" />
+        <option value="$PROJECT_DIR$/layouts/partials/logo.html" />
+        <option value="$PROJECT_DIR$/layouts/partials/menu-footer.html" />
+        <option value="$PROJECT_DIR$/static/css/foundation.css" />
+        <option value="$PROJECT_DIR$/static/css/my_html.css" />
+        <option value="$PROJECT_DIR$/themes/hugo-theme-learn/static/css/theme-green.css" />
+        <option value="$PROJECT_DIR$/themes/hugo-theme-learn/static/css/hugo-theme.css" />
+        <option value="$PROJECT_DIR$/themes/hugo-theme-learn/static/css/auto-complete.css" />
+        <option value="$PROJECT_DIR$/themes/hugo-theme-learn/static/css/theme.css" />
+        <option value="$PROJECT_DIR$/themes/hugo-theme-learn/layouts/partials/custom-footer.html" />
+        <option value="$PROJECT_DIR$/themes/hugo-theme-learn/layouts/partials/footer.html" />
+        <option value="$PROJECT_DIR$/themes/hugo-theme-learn/static/css/theme-blue.css" />
+        <option value="$PROJECT_DIR$/static/xray.html" />
+        <option value="$PROJECT_DIR$/content/capabilities/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/faq/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/how_to_access_data/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/links/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/calculate_water_intake_profile/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/bin_images/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/combine_folders/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/combine_images/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/create_list_of_file_name_vs_time_stamp/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/deal_files/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/display_and_export_images_with_metadata_profile/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/display_and_export_images_with_timestamp/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/display_counts_of_region_vs_stack/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/display_integrated_stack_of_images/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/file_name_and_metadata_vs_time_stamp/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/fix_images/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/fix_images_with_negative_pixels/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/format_filename_index/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/from_dsc_time_info_to_ascii_file_vs_time/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/linear_profile/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/list_tiff_metadata/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/locate_pixels/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/normalization_by_first_image/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/normalization_by_range_of_images/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/profile_vs_file_index/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/radial_profile/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/resonance_imaging_experiment_vs_theory/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/rotate_and_crop_images/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/template_ui/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/topaz_config_generator/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/normalization/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/select_ipts/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/notebooks/water_intake_profile_calculator/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/tutorial/how_to_run_notebooks/_index.en.md" />
+        <option value="$PROJECT_DIR$/content/SNS/_index.en.md" />
         <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/content/sns.en.md" />
+        <option value="$PROJECT_DIR$/content/_index.en.md" />
       </list>
     </option>
   </component>
@@ -181,9 +222,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="50" />
-    <option name="y" value="30" />
-    <option name="width" value="1763" />
+    <option name="x" value="236" />
+    <option name="y" value="42" />
+    <option name="width" value="1517" />
     <option name="height" value="1340" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -202,6 +243,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,114 +259,41 @@
             <path>
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="sns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="temp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="temp" type="462c0819:PsiDirectoryNode" />
-              <item name="facility" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="blackburn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="blackburn" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="blackburn" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="blackburn" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="blackburn" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neutronimaging_publications_pages_ornl_gov_with_hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="blackburn" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings is-module-sdk="true">
-        <option name="myUseModuleSdk" value="true" />
-      </console-settings>
-    </option>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/content/content/sns" />
-      <recent name="$PROJECT_DIR$/themes/minimo/static" />
-      <recent name="$PROJECT_DIR$/content/page" />
+      <recent name="$PROJECT_DIR$/content" />
+      <recent name="$PROJECT_DIR$/content/tutorial/notebooks/water_intake_profile_calculator" />
+      <recent name="$PROJECT_DIR$/content/tutorial/notebooks/select_ipts" />
+      <recent name="$PROJECT_DIR$/content/tutorial/notebooks/topaz_config_generator" />
+      <recent name="$PROJECT_DIR$/content/publications/vulcan" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/static/temp" />
-      <recent name="$PROJECT_DIR$/content" />
-      <recent name="$PROJECT_DIR$/themes" />
-      <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/content/tutorial/notebooks/select_ipts/images" />
+      <recent name="$PROJECT_DIR$/content/tutorial/notebooks/normalization/images" />
+      <recent name="$PROJECT_DIR$/content/tutorial/notebooks/topaz_config_generator/images" />
+      <recent name="$PROJECT_DIR$/content/tutorial/how_to_start_notebooks/images" />
+      <recent name="$PROJECT_DIR$/content/links/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -339,64 +308,225 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="neutronimaging_publications_pages_ornl_gov_with_hugo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="neutronimaging_publications_pages_ornl_gov_with_hugo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="neutronimaging_publications_pages_ornl_gov_with_hugo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="neutronimaging_publications_pages_ornl_gov_with_hugo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="neutronimaging_publications_pages_ornl_gov_with_hugo" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="neutronimaging_publications_pages_ornl_gov_with_hugo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="neutronimaging_publications_pages_ornl_gov_with_hugo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="neutronimaging_publications_pages_ornl_gov_with_hugo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="neutronimaging_publications_pages_ornl_gov_with_hugo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="neutronimaging_publications_pages_ornl_gov_with_hugo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
-    <configuration>$USER_HOME$/.subversion</configuration>
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c2587b8e-7e58-4166-ae97-8ab6f5d03285" name="Default" comment="" />
-      <created>1516734385428</created>
+      <changelist id="1f2909ce-3d75-492d-a5d4-0dc990d52b0d" name="Default" comment="" />
+      <created>1513864534080</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1516734385428</updated>
+      <updated>1513864534080</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="30" width="1763" height="1340" extended-state="0" />
-    <editor active="true" />
+    <frame x="236" y="42" width="1517" height="1340" extended-state="0" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47217676" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31551424" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.104963385" sideWeight="0.5028329" order="16" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2196908" sideWeight="0.49716714" order="18" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23486088" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42101696" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47217676" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31441808" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29292107" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1831657" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -411,160 +541,176 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/home/recent_posts.html" />
-    <entry file="file://$PROJECT_DIR$/static/images/favicon.ico" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/src/stylesheets/typography/_copy.scss" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/static/assets/css/main.f0e8df71.css" />
-    <entry file="file://$PROJECT_DIR$/layouts/partials/home/tags.html">
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/from_dsc_time_info_to_ascii_file_vs_time/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/format_filename_index/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/fix_images_with_negative_pixels/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/fix_images/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/file_name_and_metadata_vs_time_stamp/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/display_integrated_stack_of_images/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/display_counts_of_region_vs_stack/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/display_and_export_images_with_timestamp/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/display_and_export_images_with_metadata_profile/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/list_tiff_metadata/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/locate_pixels/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/normalization_by_first_image/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/profile_vs_file_index/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/normalization_by_range_of_images/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/radial_profile/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/resonance_imaging_experiment_vs_theory/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/prepare_venue/proposal_confirmation/_index.en.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/authors/muniftanjim.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/content/tutorial/how_to_run_notebooks/images/busy_notebook.png" />
+    <entry file="file://$PROJECT_DIR$/content/faq/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/how_to_run_notebooks/images/file_folder_browser.png" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/select_ipts/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/normalization/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/rotate_and_crop_images/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/static/images/work_in_progess.gif" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/topaz_config_generator/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/static/images/work_in_progess.png" />
+    <entry file="file://$PROJECT_DIR$/static/images/comingsoon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/opengraph.md" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/cover-image.md" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/authors.md" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/docs/_index.md" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/page/about.md" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/page/typography.md" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/data/theme.toml" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/data/assets.json" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/archetypes/page.md" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/archetypes/default.md" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/_default/single.html" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/shortcodes/center.html" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/footer.html" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/shortcodes/convo.html" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/header.html" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/head/opengraph/twitter.html" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/head/meta.html" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/data/title" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/data/author/displayName" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/theme.toml" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/config.toml" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/footer/scripts.html" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/head/head.html" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/layouts/partials/footer/copyright.html" />
-    <entry file="file://$PROJECT_DIR$/themes/minimo/exampleSite/content/_index.md" />
-    <entry file="file://$PROJECT_DIR$/static/temp/_index.md">
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/template_ui/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/notebooks/water_intake_profile_calculator/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/how_to_access_data/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/content/tutorial/how_to_run_notebooks/_index.en.md" />
+    <entry file="file://$PROJECT_DIR$/LICENSE.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/temp/authors/_index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/temp/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/blackburn/layouts/partials/sidemenu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/blackburn/layouts/partials/copyright.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/content/sns/creating-a-new-theme.md" />
-    <entry file="file://$PROJECT_DIR$/content/content/about.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/blackburn/layouts/partials/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/blackburn/layouts/partials/social.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="89" lean-forward="false" selection-start-line="4" selection-start-column="89" selection-end-line="4" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/content/sns/hugoisforlovers.md" />
-    <entry file="file://$PROJECT_DIR$/content/content/sns/migrate-from-jekyll.md" />
-    <entry file="file://$PROJECT_DIR$/content/content/sns/goisforlovers.md" />
-    <entry file="file://$PROJECT_DIR$/static/temp/facility/sns.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/content/sns/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/blackburn/static/css/blackburn.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/blackburn/layouts/partials/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/favicon.png" />
-    <entry file="file://$PROJECT_DIR$/themes/blackburn/layouts/partials/header.html">
+    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-learn/exampleSite/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_sns.en.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_hfir.en.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="30" lean-forward="false" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/SNS/_index.en.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/main_site.en.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/home.en.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/hfir.en.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-learn/i18n/en.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-learn/theme.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        <state relative-caret-position="645">
+          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/sns.en.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/ornl_imaging_logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/ornl_top_left_logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/ornl-logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_index.en.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/where_to_start.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/work_in_progress.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
