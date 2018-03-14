@@ -2,6 +2,11 @@
 title: "SNS Imaging Publications"
 ---
 
+## 2018
+Q. Xie, G. Song, S. B. Gorti, A. D. Stoica, B. Radhakrishnan, J. Bilheux, M. M. Kirka, R. R. Dehoff, H. Z. Bilheux,
+K. An, <a href='https://aip.scitation.org/doi/10.1063/1.5013676'>Applying neutron transmission physics and 3D
+statistical full-field model to understand 2D Bragg-edge imaging</a> Journal of Applied Physics 123(7), 074901 (February 2018).
+
 ## 2017
 Song G., Lin J.Y., Bilheux J., Xie Q., Santodonato L., Molaison J.J., Skorpenske H.D., dos Santos A.M., Tulk C.A.,
 An K., Stoica A.D., Kirka M.M., Dehoff R.R., Tremsin A.S., Bunn J., Sochalski-Kolbus L.M., Bilheux H.Z.,
